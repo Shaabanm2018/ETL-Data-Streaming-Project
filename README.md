@@ -101,7 +101,7 @@ flowchart LR
 2. **Install Dependencies**
    ```bash
    # Core dependencies
-   pip install apache-airflow kafka-python cassandra-driver pyspark
+   pip install apache-airflow kafka-python cassandra-driver spark pyspark
    ```
 
 3. **Configure Credentials**
