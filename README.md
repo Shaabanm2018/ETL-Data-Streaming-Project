@@ -134,17 +134,20 @@ flowchart LR
 ### Apache Airflow Dashboard
 
 ![Screenshot 2024-10-31 193632](https://github.com/user-attachments/assets/1d26b43b-4d16-415c-959b-0e87deaae541)
+
 *Apache Airflow Login Screen*
 
 ![Screenshot 2024-10-31 193209](https://github.com/user-attachments/assets/d8c9f9b7-0bee-487f-ab3c-6b8f4bf138e0)
+
 *Apache Airflow DAGs showing our data pipeline workflows*
 
 ### Kafka Control Center
-
 ![Screenshot 2024-10-31 193849](https://github.com/user-attachments/assets/e92eda2c-6ee2-4820-b83f-3d045be5da13)
+
 *Kafka Control Center showing active topics and throughput*
 
 ![Screenshot 2024-10-31 193257](https://github.com/user-attachments/assets/100832ff-e153-490f-8e9d-c51b4198c404)
+
 *Real-time monitoring of data streams*
 
 ### Apache Cassandra Results
